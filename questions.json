@@ -1,0 +1,502 @@
+[
+  {
+    "Question": "Qui est l'auteur du manga \"One Piece\" ?",
+    "Answer": "Eiichiro Oda",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le nom du personnage principal de \"Naruto\" ?",
+    "Answer": "Naruto Uzumaki",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Dans quelle ville se déroule l'intrigue de \"Death Note\" ?",
+    "Answer": "Tokyo",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le pouvoir de Luffy dans \"One Piece\" ?",
+    "Answer": "Le Fruit du Démon de caoutchouc, lui donnant une élasticité surhumaine",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Qui est l'antagoniste principal de \"Dragon Ball Z\" ?",
+    "Answer": "Freezer",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quelle est la quête de Gon dans \"Hunter x Hunter\" ?",
+    "Answer": "Trouver son père, Ging Freecss",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Qui est le rival de Goku dans \"Dragon Ball\" ?",
+    "Answer": "Vegeta",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "De quelle école de magie le protagoniste de \"Fairy Tail\", Natsu, fait-il partie ?",
+    "Answer": "Fairy Tail",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Qui est le créateur du manga \"Attack on Titan\" ?",
+    "Answer": "Hajime Isayama",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le nom du manga qui suit les aventures de Monkey D. Luffy et de son équipage ?",
+    "Answer": "One Piece",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Dans \"My Hero Academia\", quel est le nom du super-héros numéro un ?",
+    "Answer": "All Might",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le nom du détective génial dans \"Détective Conan\" ?",
+    "Answer": "Conan Edogawa (Shinichi Kudo)",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Qui est le protagoniste de \"One Punch Man\" ?",
+    "Answer": "Saitama",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le thème central de \"Fullmetal Alchemist\" ?",
+    "Answer": "L'alchimie et les conséquences de ses abus",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Dans \"Demon Slayer\", quel est le nom de l'épée spéciale utilisée par Tanjiro ?",
+    "Answer": "L'épée de Nichirin",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le nom du monde alternatif dans \"Sword Art Online\" ?",
+    "Answer": "Aincrad",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Qui est l'auteur du manga \"One Punch Man\" ?",
+    "Answer": "ONE (aussi connu sous le nom de ONE-P)",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quelle est la particularité de Light Yagami dans \"Death Note\" ?",
+    "Answer": "Il peut tuer des gens en écrivant leurs noms dans un cahier",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le nom du shinigami qui donne le \"Death Note\" à Light Yagami ?",
+    "Answer": "Ryuk",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Dans \"Naruto\", quel village ninja est l'équipe de Naruto Uzumaki ?",
+    "Answer": "Le village de Konoha (Konohagakure)",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Qui est le personnage principal de \"Black Clover\" ?",
+    "Answer": "Asta",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quelle est la quête de Kaneki dans \"Tokyo Ghoul\" ?",
+    "Answer": "Survivre en tant que demi-ghoul",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Qui est le personnage principal de \"One Punch Man\" ?",
+    "Answer": "Saitama",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Dans \"Attack on Titan\", quel est le nom de la dernière cité humaine ?",
+    "Answer": "Paradis",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel est le nom du mangaka célèbre pour \"Akira\" ?",
+    "Answer": "Katsuhiro Otomo",
+    "Theme": "Manga"
+  },
+  {
+    "Question": "Quel jeu vidéo est souvent considéré comme le tout premier jeu d'arcade, sorti en 1972 ?",
+    "Answer": "Pong",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel est le nom du plombier italien emblématique de Nintendo ?",
+    "Answer": "Mario",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Qui est le protagoniste de la série de jeux \"The Legend of Zelda\" ?",
+    "Answer": "Link",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo populaire de type battle royale a été développé par Epic Games ?",
+    "Answer": "Fortnite",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel est le nom du célèbre jeu de construction et de survie de Mojang ?",
+    "Answer": "Minecraft",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quelle est la série de jeux vidéo qui se déroule dans un univers futuriste et cyberpunk, créée par CD Projekt Red ?",
+    "Answer": "Cyberpunk 2077",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo met en scène un monde ouvert post-apocalyptique où vous incarnez un voleur nommé Garrett ?",
+    "Answer": "Thief",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Qui est le principal antagoniste de la série \"Final Fantasy VII\" ?",
+    "Answer": "Sephiroth",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel est le nom du héros de la série \"The Witcher\" de CD Projekt Red ?",
+    "Answer": "Geralt de Riv",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo a introduit le personnage de Lara Croft, l'archéologue aventurière ?",
+    "Answer": "Tomb Raider",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Dans quel jeu vidéo contrôlez-vous un personnage nommé Kratos, qui cherche la vengeance contre les dieux grecs ?",
+    "Answer": "God of War",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo de science-fiction a pour slogan \"In the year 2077, a legend is born\" ?",
+    "Answer": "Deus Ex",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu de stratégie en temps réel a été créé par Blizzard Entertainment ?",
+    "Answer": "StarCraft",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo met en scène un plombier vert nommé Luigi et est souvent associé à des maisons hantées ?",
+    "Answer": "Luigi's Mansion",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo de tir à la première personne se déroule dans un univers post-apocalyptique et met en scène des Super Mutants ?",
+    "Answer": "Fallout",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel est le nom de la mascotte emblématique de SEGA ?",
+    "Answer": "Sonic the Hedgehog",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Dans quel jeu vidéo incarnez-vous le personnage de Gordon Freeman, un scientifique qui se bat contre des extraterrestres ?",
+    "Answer": "Half-Life",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo a popularisé le genre \"battle royale\" ?",
+    "Answer": "PlayerUnknown's Battlegrounds\" (PUBG)",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Qui est le créateur de la série \"Metal Gear Solid\" ?",
+    "Answer": "Hideo Kojima",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo emblématique met en scène un plombier italien nommé Mario qui doit sauver la princesse Peach du méchant Bowser ?",
+    "Answer": "Super Mario Bros",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo de plateforme met en scène un personnage anthropomorphe nommé Crash ?",
+    "Answer": "Crash Bandicoot",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo a popularisé le genre \"bac à sable\" (sandbox) ?",
+    "Answer": "Grand Theft Auto\" (GTA)",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Qui est le protagoniste de la série \"Assassin's Creed\" ?",
+    "Answer": "Il y a plusieurs protagonistes, mais le plus célèbre est Altaïr Ibn-La'Ahad",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Dans quel jeu vidéo devez-vous résoudre des énigmes pour échapper à une série de pièces mortelles ?",
+    "Answer": "Portal",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Quel jeu vidéo de simulation de vie permet aux joueurs de créer et de contrôler des personnages virtuels ?",
+    "Answer": "Les Sims",
+    "Theme": "Jeu vidéo"
+  },
+  {
+    "Question": "Dans quelle série télévisée les personnages vivent-ils sur l'île mystérieuse de Lost ?",
+    "Answer": "Lost\" (Perdus)",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Quel acteur incarne le personnage de Sherlock Holmes dans la série moderne \"Sherlock\" ?",
+    "Answer": "Benedict Cumberbatch",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série comique suivez-vous les aventures de Ted Mosby à la recherche de l'amour ?",
+    "Answer": "How I Met Your Mother",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui est l'acteur principal de la série \"The Crown\" ?",
+    "Answer": "Claire Foy (dans les premières saisons), puis Olivia Colman",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série de science-fiction le Docteur est-il un seigneur du temps voyageant à travers l'espace et le temps ?",
+    "Answer": "Doctor Who",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Quelle série dramatique suit les vies de femmes au foyer à Wisteria Lane ?",
+    "Answer": "Desperate Housewives",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série médicale l'hôpital fictif de Grey Sloan Memorial est-il au cœur de l'intrigue ?",
+    "Answer": "Grey's Anatomy",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui incarne le personnage de Walter White dans \"Breaking Bad\" ?",
+    "Answer": "Bryan Cranston",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série de science-fiction un groupe de survivants tente-t-il de survivre à une apocalypse zombie ?",
+    "Answer": "The Walking Dead",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Quelle série suit les enquêtes du détective privé et consultant Sherlock Holmes à New York ?",
+    "Answer": "Elementary",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui joue le rôle de Tyrion Lannister dans \"Game of Thrones\" ?",
+    "Answer": "Peter Dinklage",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série de science-fiction les passagers d'un vaisseau spatial doivent-ils trouver une nouvelle planète habitable ?",
+    "Answer": "Battlestar Galactica",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Quelle série comique met en scène un groupe d'amis qui fréquentent le bar \"MacLaren's Pub\" ?",
+    "Answer": "How I Met Your Mother",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui est le créateur de la série \"The Office\" (version américaine) ?",
+    "Answer": "Greg Daniels",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série dramatique de gangsters, le personnage de Nucky Thompson domine-t-il le crime à Atlantic City ?",
+    "Answer": "Boardwalk Empire",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui incarne le personnage de Sheldon Cooper dans \"The Big Bang Theory\" ?",
+    "Answer": "Jim Parsons",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série dramatique et politique, Kevin Spacey incarne-t-il le personnage principal, Frank Underwood ?",
+    "Answer": "House of Cards",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui est le personnage principal de la série \"Hannibal\", basée sur le tueur en série Hannibal Lecter ?",
+    "Answer": "Will Graham, interprété par Hugh Dancy",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série de fantasy les Stark, les Lannister et les Targaryen se disputent-ils le pouvoir ?",
+    "Answer": "Game of Thrones",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui incarne le personnage de Dexter Morgan dans la série \"Dexter\" ?",
+    "Answer": "Michael C Hall",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série de science-fiction, les voyageurs explorent-ils une mystérieuse île à travers le temps ?",
+    "Answer": "Lost",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui est le réalisateur de la série \"Stranger Things\" ?",
+    "Answer": "Les frères Duffer",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Quelle série de science-fiction met en scène un androïde nommé Data et explore les aventures de l'USS Enterprise ?",
+    "Answer": "Star Trek: The Next Generation",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Qui est le personnage principal de la série \"Narcos\", basée sur la vie du baron de la drogue Pablo Escobar ?",
+    "Answer": "Pablo Escobar, interprété par Wagner Moura",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Dans quelle série comique les personnages travaillent-ils dans un bureau de vente de papier ?",
+    "Answer": "The Office",
+    "Theme": "Séries"
+  },
+  {
+    "Question": "Quel réalisateur a dirigé le film \"Jurassic Park\" ?",
+    "Answer": "Steven Spielberg",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Qui a joué le rôle de Jack Dawson dans le film \"Titanic\" ?",
+    "Answer": "Leonardo DiCaprio",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quelle actrice a incarné Hermione Granger dans la série de films \"Harry Potter\" ?",
+    "Answer": "Emma Watson",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quel est le nom du robot dans le film d'animation \"Wall-E\" ?",
+    "Answer": "Wall-E",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Dans quel film classique de science-fiction un vaisseau spatial est-il attaqué par un requin géant dans l'espace ?",
+    "Answer": "Alien",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Qui a joué le rôle de Neo dans le film \"The Matrix\" ?",
+    "Answer": "Keanu Reeves",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+    "Answer": "Parasite",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Dans quel film le personnage principal, Forrest Gump, dit-il : \"La vie, c'est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber\" ?",
+    "Answer": "Forrest Gump",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quelle actrice a remporté un Oscar pour son rôle dans \"La La Land\" ?",
+    "Answer": "Emma Stone",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quel film a popularisé la réplique \"May the Force be with you\" ?",
+    "Answer": "Star Wars",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quel réalisateur a dirigé \"ET l'extra-terrestre\" ?",
+    "Answer": "Steven Spielberg",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Qui a joué le rôle de James Bond dans le film \"Skyfall\" ?",
+    "Answer": "Daniel Craig",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quel film raconte l'histoire d'un naufrage tragique sur le RMS Titanic ?",
+    "Answer": "Titanic",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Qui est le réalisateur de la trilogie \"Le Seigneur des anneaux\" ?",
+    "Answer": "Peter Jackson",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quelle est la première adaptation cinématographique du super-héros Batman, sortie en 1989 ?",
+    "Answer": "Batman\" de Tim Burton",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Qui a joué le rôle de Tony Stark dans la saga cinématographique Marvel, \"Iron Man\" ?",
+    "Answer": "Robert Downey Jr",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quelle actrice a interprété le personnage de Katniss Everdeen dans \"Hunger Games\" ?",
+    "Answer": "Jennifer Lawrence",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Dans quel film une jeune sorcière nommée Dorothy se rend-elle au Pays d'Oz ?",
+    "Answer": "Le Magicien d'Oz",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Qui a réalisé le film d'animation \"Le Roi Lion\" de Disney ?",
+    "Answer": "Rob Minkoff et Roger Allers",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quel film met en scène une équipe de voleurs tentant de voler des casinos à Las Vegas ?",
+    "Answer": "Ocean's Eleven",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quelle actrice a remporté un Oscar pour son rôle dans \"Black Swan\" ?",
+    "Answer": "Natalie Portman",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Dans quel film un archéologue aventurier nommé Indiana Jones recherche-t-il l'Arche d'Alliance ?",
+    "Answer": "Les Aventuriers de l'Arche perdue",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Qui a réalisé le film de science-fiction \"Inception\" ?",
+    "Answer": "Christopher Nolan",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quelle actrice a joué le rôle de la Princesse Leia dans \"Star Wars\" ?",
+    "Answer": "Carrie Fisher",
+    "Theme": "Film"
+  },
+  {
+    "Question": "Quel film suit les aventures d'un jeune sorcier nommé Harry Potter ?",
+    "Answer": "La série de films \"Harry Potter",
+    "Theme": "Film"
+  }
+]
